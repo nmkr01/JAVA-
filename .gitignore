@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+
+# Jar Files
+*.jar
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+*.out
+
+# macOS files
+.DS_Store 
+
+# Windows files
+Thumbs.db
+
+# Dependencies
+lib/
+

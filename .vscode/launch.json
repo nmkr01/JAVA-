@@ -1,0 +1,243 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EnumsExmp",
+            "request": "launch",
+            "mainClass": "OOPS.EnumsExmp",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "Operators.TernaryOperator",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "RelationalOperator",
+            "request": "launch",
+            "mainClass": "Operators.RelationalOperator",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "LogicalOperator",
+            "request": "launch",
+            "mainClass": "Operators.LogicalOperator",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalOperator",
+            "request": "launch",
+            "mainClass": "Operators.ConditionalOperator",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentOperator",
+            "request": "launch",
+            "mainClass": "Operators.AssignmentOperator",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "Loops.WhileLoop",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "NestedWhileLoop",
+            "request": "launch",
+            "mainClass": "Loops.NestedWhileLoop",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "Loops.DoWhile",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "Loops.ForLoop",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStatement",
+            "request": "launch",
+            "mainClass": "ConditionalStatements.SwitchStatement",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "NestedIfStatement",
+            "request": "launch",
+            "mainClass": "ConditionalStatements.NestedIfStatement",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "IfStatement",
+            "request": "launch",
+            "mainClass": "ConditionalStatements.IfStatement",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "IfElseStatement",
+            "request": "launch",
+            "mainClass": "ConditionalStatements.IfElseStatement",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "IfElseIfStatement",
+            "request": "launch",
+            "mainClass": "ConditionalStatements.IfElseIfStatement",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "BasicPrograms.WrapperClass",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "BasicPrograms.Variables",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "UpDownCasting",
+            "request": "launch",
+            "mainClass": "BasicPrograms.UpDownCasting",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "TypeCast",
+            "request": "launch",
+            "mainClass": "BasicPrograms.TypeCast",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "SwappingOfTwoNums",
+            "request": "launch",
+            "mainClass": "BasicPrograms.SwappingOfTwoNums",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "BasicPrograms.Hello",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Literals",
+            "request": "launch",
+            "mainClass": "BasicPrograms.Literals",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "PrePostIncrement",
+            "request": "launch",
+            "mainClass": "BasicPrograms.PrePostIncrement",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "BasicPrograms.DataTypes",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoNums",
+            "request": "launch",
+            "mainClass": "BasicPrograms.AddTwoNums",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "FinalWithClass",
+            "request": "launch",
+            "mainClass": "OOPS.FinalWithClass",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "OOPS.Interfaces",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "InnerClass",
+            "request": "launch",
+            "mainClass": "OOPS.InnerClass",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "ObjectCreation",
+            "request": "launch",
+            "mainClass": "OOPS.ObjectCreation",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "FuncInterfaceWithLambdaExpression",
+            "request": "launch",
+            "mainClass": "OOPS.FuncInterfaceWithLambdaExpression",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "EnumsWithIfElse",
+            "request": "launch",
+            "mainClass": "OOPS.EnumsWithIfElse",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation",
+            "request": "launch",
+            "mainClass": "OOPS.Encapsulation",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "DynamicMethodDispatch",
+            "request": "launch",
+            "mainClass": "OOPS.DynamicMethodDispatch",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "OOPS.Packages",
+            "console": "integratedTerminal"
+        }
+    ]
+}
