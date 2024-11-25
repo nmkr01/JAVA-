@@ -1,0 +1,42 @@
+Objects
+    |=> Throwable
+        |=> Exception
+            |==> Run Time Exceptions
+                    --> Arithmetic Exception
+                    --> Array Index Out Of Bounds Exception
+                    --> Null Pointer Exception
+             ==> SQL Exceptions
+             ==> IO Exceptions
+
+        |=> Error
+            |==> Thread Death
+             ==> IO Error
+             ==> Virtual Machine Error
+             ==> Out Of Memory
+
+
+Error 
+    ==> Thread Death
+    ==> IO Error
+    ==> Virtual Machine Error
+    ==> Out Of Memory
+
+Errors - We can not handle Errors.
+
+Exception - we can handle the Exceptions.
+
+Types Of Exceptions
+
+     ==> Run time Exceptions -- ( Un Checked Exceptions ) 
+            --> Arithmetic Exception
+            --> Array Index Out Of Bounds Exception
+            --> Null Pointer Exception
+
+     ==> SQL Exceptions  == > Checked Exceptions
+     ==> IO Exceptions   == > Checked Exceptions
+
+==> Key Points
+    * Run Time Exceptions can be handled or not but as a good programmer we should handle the Exceptions.
+    * Remaining Exceptions can must be handled.
+
+

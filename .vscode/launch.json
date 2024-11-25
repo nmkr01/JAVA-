@@ -3,6 +3,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Throws",
+            "request": "launch",
+            "mainClass": "OOPS.Exceptions.Throws",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Throw",
+            "request": "launch",
+            "mainClass": "OOPS.Exceptions.Throw",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "HandlingExceptions",
+            "request": "launch",
+            "mainClass": "OOPS.Exceptions.HandlingExceptions",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "CustomExceptions",
+            "request": "launch",
+            "mainClass": "OOPS.Exceptions.CustomExceptions",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Exceptions",
+            "request": "launch",
+            "mainClass": "OOPS.Exceptions.Exceptions",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "AddIOfTwoNumsFI",
+            "request": "launch",
+            "mainClass": "OOPS.AddIOfTwoNumsFI",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "ThisAndSuper",
+            "request": "launch",
+            "mainClass": "OOPS.ThisAndSuper",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "ThisKeyWord",
+            "request": "launch",
+            "mainClass": "OOPS.ThisKeyWord",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "StaticVariable",
+            "request": "launch",
+            "mainClass": "OOPS.StaticVariable",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethod",
+            "request": "launch",
+            "mainClass": "OOPS.StaticMethod",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "StaticKeyWord",
+            "request": "launch",
+            "mainClass": "OOPS.StaticKeyWord",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "StringBuffer",
+            "request": "launch",
+            "mainClass": "Strings.StringBuffer",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings.Strings",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "JaggedArray",
+            "request": "launch",
+            "mainClass": "Arrays.JaggedArray",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOfStudents",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayOfStudents",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "Arrays2",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays2",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousInnerClass",
+            "request": "launch",
+            "mainClass": "OOPS.AnonymousInnerClass",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
+            "name": "AbstractAnynomousInnerClass",
+            "request": "launch",
+            "mainClass": "OOPS.AbstractAnynomousInnerClass",
+            "projectName": "JavaPrograms_4b440b2e"
+        },
+        {
+            "type": "java",
             "name": "EnumsExmp",
             "request": "launch",
             "mainClass": "OOPS.EnumsExmp",

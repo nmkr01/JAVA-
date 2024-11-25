@@ -1,0 +1,30 @@
+Folder Structure/Path Of a Project
+
+JAVAPROGRAMS/
+|
+|___ .vscode/
+|   |
+|   |_ _ settings.json
+|   |_ _ launch.json
+|
+|___ bin/    # Compiled Files
+|
+|___ lib/ 
+|
+|___ resources/
+|    |
+|    |_ _ ProjectFilePath.txt
+|
+|___ src/
+|    |
+|    |_ _ Main.java  # All Java Files and Folders
+|
+|___ .gitignore 
+|
+|___ README.md
+|
+|
+|
+|
+|
+

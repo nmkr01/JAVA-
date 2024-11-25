@@ -17,7 +17,7 @@ abstract class A
 //     }
 // }
 
-public class AnynomousInnerClass {
+public class AbstractAnynomousInnerClass {
     public static void main(String[] args) {
         A obj = new A()
         {
